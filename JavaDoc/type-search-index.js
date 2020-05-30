@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"BodyTypes"},{"p":"<Unnamed>","l":"MainFrame"},{"p":"<Unnamed>","l":"RequestsListPanel"},{"p":"<Unnamed>","l":"RequestsPanel"},{"p":"<Unnamed>","l":"ResponsesPanel"},{"p":"<Unnamed>","l":"UIControl"}]
